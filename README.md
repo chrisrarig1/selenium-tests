@@ -13,3 +13,8 @@
 ## Inputs
 
 - Inputs of email and password required in given env file
+- Sample.env file provided
+
+## Resources
+
+- [Selenium Docs](https://www.selenium.dev/documentation/)
